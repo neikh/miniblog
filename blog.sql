@@ -19,8 +19,8 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 -- Base de données: `miniblog`
 --
 
-CREATE DATABASE IF NOT EXISTS `blog` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `blog`;
+CREATE DATABASE IF NOT EXISTS `miniblog` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `miniblog`;
 
 -- --------------------------------------------------------
 
