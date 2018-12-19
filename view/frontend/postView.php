@@ -1,4 +1,4 @@
-<?php $titre = htmlspecialchars($post['titre']); ?>
+<?php $title = htmlspecialchars($post['titre']); ?>
 
 <?php ob_start(); ?>
 <h1>Mon super blog !</h1>
